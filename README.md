@@ -1,7 +1,7 @@
 # 4-BIT-RIPPLE-COUNTER
 
-## NAME: S ADITYA
-## REG NO: 212223040007
+## NAME: j.gajapathi
+## REG NO: 212222053002
 
 **AIM:**
 
